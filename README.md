@@ -11,20 +11,20 @@ A personal tier list of all the dive sites that I have been to so far. I typical
 - F Tier: Miserable - Just stay away.
   
 ### S Tier
-- [Komodo](komodo) 
+- [Komodo](#komodo) 
 
 ### A Tier
-- [Nusa Penida](nusa-penida)
-- [Verde Island](verde-island)
-- [Maldives Central Atolls](maldives-central-atolls)
-- [Amed/ Tulamben](amed-tulamben)
+- [Nusa Penida](#nusa-penida)
+- [Verde Island](#verde-island)
+- [Maldives Central Atolls](#maldives-central-atolls)
+- [Amed/ Tulamben](#amed-tulamben)
 
 ### B Tier
-- [Sipadan](sipadan)
-- [Peurto Galera](peurto-galera)
-- [Richelieu Rock](richelieu-rock)
-- [Three Gili’s](three-gilis)
-- [Anilao](anilao)
+- [Sipadan](#sipadan)
+- [Peurto Galera](#peurto-galera)
+- [Richelieu Rock](#richelieu-rock)
+- [Three Gili’s](#three-gilis)
+- [Anilao](#anilao)
 
 ### C Tier
 - Koh Phi Phi
