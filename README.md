@@ -1,6 +1,6 @@
 # Dive Site Tier List
 
-A personal tier list of all the dive sites that I have been to so far. I typically judge a place based on water conditions and reef life (fish density and coral variety), so I may be slightly biased in this regard. Links to my justifications and reasonings are embedded inside the text. Since there are still many other places that I have yet to visit, this list may evolve overtime. Additionally, do note that these opinions are mine, and mine only. Our experiences may vary depending on the season so kindly take this list with a pinch of salt. Without further ado, the tiers are as follows:
+A personal tier list of all the dive sites that I have been to so far. I am a little biased towards places with 'bluer waters' and healthyreef life (fish density and coral variety) so do take the ranking with a pinch of salt. Links to my justifications and reasonings are embedded inside the text. Since there are still many other places that I have yet to visit, this list may evolve overtime. Additionally, do note that these opinions are mine, and mine only! Our experiences may vary (due to seasons) so I apologize in advance if this ranking does not align with your personal one. Without further ado, my tiers are as follows:
 
 - S Tier: Perfect - Absolutely must go!
 - A Tier: Excellent - I would definitely recommend a trip.
