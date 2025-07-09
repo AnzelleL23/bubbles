@@ -1,5 +1,15 @@
 # Dive Site Tier List
 
+A personal tier list of all the dive sites that I have been to so far. I typically judge a place based on water conditions and reef life (fish density and coral variety), so I may be slightly biased in this regard. Since there are still many other places that I have yet to visit, this list may evolve overtime. Additionally, do note that these opinions are mine, and mine only. Our experiences may vary depending on the season so take this list with a pinch of salt. Without further ado, the tiers are as follows:
+
+- S Tier: Perfect - Absolutely must go!
+- A Tier: Excellent - I would definitely recommend a trip.
+- B Tier: Great - Some flaws that keep it from being 'excellent' but I would otherwise still strongly advocate for.
+- C Tier: Decent - A fairly enjoyable experience but nothing that will blow your mind.
+- D Tier: Subpar - Acceptable, though I probably would not go out of the way to dive here specifically.
+- E Tier: Poor - Avoid if possible. 
+- F Tier: Miserable - Just stay away.
+  
 ### S Tier
 - Komodo 
 
