@@ -240,9 +240,9 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 
 ### Sail Rock (Thailand)
 <p align="middle">
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sail_1.jpg" width="32%" />
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sail_2.jpg" width="32%" /> 
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sail_3.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sailrock_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sailrock_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sailrock_3.jpg" width="32%" />
 </p>
 
 - Similar case with Verde Island/ Peurto Galera, I decided to rank this site separately since it is some distance from Koh Tao/ Koh Samui.
