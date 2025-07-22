@@ -70,7 +70,13 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** Corals, reef fish
 
 ## A Tier
-#### Nusa Penida (Indonesia)
+### Nusa Penida (Indonesia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/penida_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/penida_3.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/penida_2.jpg" width="32%" />
+</p>
+
 - Impeccable visibility at crystal bay/ northern sites.
 - Almost guaranteed manta sightings in the South + one of the few places in SEA to hunt for the mola mola.
 - Corals are bountiful and healthy, especially in crystal bay/ sites close to Nusa Lembobgan.
@@ -78,7 +84,13 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Decent amount of current which can be quite challenging but overall still manageable...though there are many horror stories online.
 - **Highlights:** Mola mola, Manta rays, corals
 
-#### Verde Island (Philippines)
+### Verde Island (Philippines)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/verde_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/verde_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/verde_3.jpg" width="32%" />
+</p>
+
 - Very near Peurto Galera but decided to rank it separately since it is often marketed as a separate day trip destination
 - This place is full of coral and marine life, some of the most outside of Komodo, maybe even comparable to some degree.
 - Possible pelagic sightings around the pinnacle too.
@@ -86,16 +98,28 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - The currents here are also extremely erratic and can be quite dangerous, probably the only place where I experienced pretty drastic up/ down currents.
 - **Highlights:** Corals, reef fish
 
-#### Maldives Central Atolls (Maldives)
+### Maldives Central Atolls (Maldives)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/maldives_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/maldives_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/maldives_3.jpg" width="32%" />
+</p>
+
 - Difficult to rank every single atoll individually so I just grouped everything together as one.
 - Pelagic paradise, black/ white tips on virtually every dive.
 - Chance to get very very close to nurse sharks and mantas.
 - Water was blue and visibility was generally great, though it was poorer at some of the deeper channel diving sites if I remember correctly.
-- Not ranked higher only because some places had bleached corals which is quite unfortunate. 
+- Not ranked higher only because some places had massively bleached corals which is quite unfortunate. 
 - Perfect for the ‘big stuff’ and drift diving.
 - **Highlights:** Sharks (all kinds), Manta rays
 
-#### Richelieu Rock (Thailand)
+### Richelieu Rock (Thailand)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/richelieu_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/richelieu_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/richelieu_3.jpg" width="32%" />
+</p>
+
 - The only dive site in Thailand (that I’ve been to so far) where it genuinely feels like you’re diving in a fish tank.
 - Thousands upon thousands of schooling fishes all around you with great coral patches around the pinnacle.
 - Visibility was great for the most part but dropped quite a bit at certain locations when cold currents came.
@@ -103,7 +127,13 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Possibly the best site in Thailand (that I have been to) especially since Thailand diving is only OK at best.
 - **Highlights:** Glass fish
 
-#### Amed/ Tulamben (Indonesia)
+### Amed/ Tulamben (Indonesia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/amed_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/amed_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/amed_3.jpg" width="32%" />
+</p>
+
 - Grouped these two together since they are fairly similar in terms of marine life/ diving conditions.
 - Fantastic blend of macro and coral diving. 
 - The blue waters, clear visibility and fairly calm conditions make for very comfortable diving.
@@ -113,7 +143,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** Frogfish, Nudibranch, muck etc.
   
 ## B Tier
-#### Sipadan (Malaysia)
+### Sipadan (Malaysia)
 - Probably my most controversial ranking in this list.
 - Excellent place to see schools of bump head parrot fish and jackfish/ barracuda tornadoes.
 - Water was blue and clear for the most part.
@@ -126,7 +156,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - I still recommend a trip here because it is indeed an extremely beautiful site, just that the hype is a little overblown and that the dives are not cheap at all.
 - **Highlights:** Bumphead parrotfish, Barracuda/ Jackfish tornadoes, occasional pelagic
   
-#### Peurto Galera (Philippines)
+### Peurto Galera (Philippines)
 - Huge variety of diving, all within 15 mins boat ride. 
 - Incredibly healthy and colorful coral at the sites just east of Sabang beach.
 - Good macro and marine life all around, healthy corals even at areas very close to civilisation.
@@ -134,7 +164,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Hampered by slightly greenish waters (visibility is still decent but I have a strong bias for blue waters) and absence of schooling fish.
 - **Highlights:** Soft coral, saw my first stargazer here too.
 
-#### Three Gili’s (Indonesia)
+### Three Gili’s (Indonesia)
 - A personal favourite in terms of a holistic dive holiday.
 - There are sites with brilliant coral and pelagics (which comes with more currents), then there are those with gentle topography for macro hunting.
 - Water temperature is perfect, visibility and colour are excellent.
@@ -144,7 +174,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Ultimately ranked Peurto Galera (PG) higher only because PG has more critters.
 - **Highlights:** Coral (if not blown up), Turtles, occasional Pelagics
 
-#### Anilao: (Philippines)
+### Anilao: (Philippines)
 - The ease of accessibility to dive sites is a huge plus.
 - The variability of scenery is quite astounding, from sandy bottom to coral gardens and even some coral walls.
 - Great variety of nudibranch, which are also easy to spot.
