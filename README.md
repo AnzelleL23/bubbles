@@ -54,7 +54,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 ---
 
 ## S Tier
-#### Komodo (Indonesia)
+### Komodo (Indonesia)
 <p align="middle">
   <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_1.jpg" width="32%" />
   <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_2.jpg" width="32%" /> 
@@ -209,6 +209,12 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
   
 ## C Tier
 ### Koh Phi Phi (Thailand)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/phiphi_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/phiphi_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/phiphi_3.jpg" width="32%" />
+</p>
+
 - There is quite a bit of descent marine life and corals around the islands.
 - I’ve spotted a number of pelagics during my dives here, albeit very briefly.
 - Sizeable variety of nudibranch around here too, though I find them to be a little smaller than other places I’ve been to. 
@@ -217,6 +223,11 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** Nudibranch, occasional pelagic, squids
   
 ### Lembeh (Indonesia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_3.jpg" width="32%" />
+</p>
 - Another ranking which some may find extremely controversial.
 - Even though it’s often heralded as the 'muck diving capital of the world', there were periods of up to 20 mins where my camera would be off and all I'd see were just endless fields of sand. 
 - Not ranked higher because the of the aforementioned disappointments and that the diving here is generally quite expensive.
@@ -225,6 +236,12 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** Nudibranch, octopus, muck etc.
 
 ### Sail Rock (Thailand)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sail_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sail_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sail_3.jpg" width="32%" />
+</p>
+
 - Similar case with Verde Island, I decided to rank this site separately since it is some distance from Koh Tao/ Koh Samui.
 - Quite similar to Richelieu rock in terms of topography and marine life.
 - Maybe a bit less fish than at Richelieu.
@@ -236,6 +253,12 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** Reef fish
 
 ### Tioman (Malaysia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tioman_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tioman_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tioman_3.jpg" width="32%" />
+</p>
+
 - The closest decent dive destination to Singapore!
 - I feel that the sites further away from the Tioman i.e. the islands around Labas are actually very nice. The waters can have visibility of 15-20m sometimes, with interesting topography for some swim throughs.
 - Renggis is also a fantastic site with good coral and almost guaranteed turtle sightings. Occasional pelagic here too.
@@ -245,6 +268,12 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** OK corals, near to SG
 
 ### Kapalai (Malaysia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/kapalai_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/kapalai_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/kapalai_3.jpg" width="32%" />
+</p>
+
 - While there is the one site called Little Okinawa which reminds me a lot of Nusa Penida and Komodo, the other parts of Kapalai are rather dull and interesting.
 - There is decent coral but not much marine life to write home about 
 - The water is quite blue but visibility was ok-ish
@@ -258,14 +287,22 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Some marine life and coral around the island.
 - Ranked in this position since it simply cannot compete with those above in terms of coral or marine life. 
 - This is still a rather decent dive site and I do recall feeling quite impressed by the dive.
+- Realized that I have 0 footage of this site so going purely based on memory and dive log notes. 
 - **Highlights:** Vibes
   
 ### Mabul (Malaysia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/mabul_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/mabul_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/mabul_3.jpg" width="32%" />
+</p>
+
 - Arguably the worst of the three (Mabul, Kapalai and Sipadan).
 - The water here is green and has pretty low visibility, less than 6m  max I reckon… 
 - I don’t recall there being much coral, perhaps occasional patches here and there.
 - However, there is good macro life in the area (thanks to the trash from the villages nearby...).
-- I remembered hating Mabul a lot when I first dove it but looking through my pictures made me realise how many critters I saw every dive. 
+- I remembered hating Mabul a lot when I first dove it but looking through my pictures made me realise how many critters I saw every dive.
+- Schooling fish may pass by here too. 
 - While the macro is great, it is not better Lembeh and Anilao (where the water quality is arguably better too).
 - Decent but not great so it takes the last spot in the C tier.
 - **Highlights:** Muck etc., also the only place where I've seen a Blue-ringed octopus!
