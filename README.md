@@ -144,6 +144,12 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
   
 ## B Tier
 ### Sipadan (Malaysia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sipadan_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sipadan_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sipadan_3.jpg" width="32%" />
+</p>
+
 - Probably my most controversial ranking in this list.
 - Excellent place to see schools of bump head parrot fish and jackfish/ barracuda tornadoes.
 - Water was blue and clear for the most part.
@@ -157,6 +163,12 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** Bumphead parrotfish, Barracuda/ Jackfish tornadoes, occasional pelagic
   
 ### Peurto Galera (Philippines)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/peurto_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/peurto_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/peurto_3.jpg" width="32%" />
+</p>
+
 - Huge variety of diving, all within 15 mins boat ride. 
 - Incredibly healthy and colorful coral at the sites just east of Sabang beach.
 - Good macro and marine life all around, healthy corals even at areas very close to civilisation.
@@ -165,16 +177,28 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - **Highlights:** Soft coral, saw my first stargazer here too.
 
 ### Three Gili’s (Indonesia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/gili_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/gili_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/gili_3.jpg" width="32%" />
+</p>
+
 - A personal favourite in terms of a holistic dive holiday.
 - There are sites with brilliant coral and pelagics (which comes with more currents), then there are those with gentle topography for macro hunting.
 - Water temperature is perfect, visibility and colour are excellent.
 - I would even claim to some extent that it feels like a 'discount Komodo', in terms of coral and water.
-- The only reason why I cannot rank it higher than anything that came before, is because there is an entire passage (I can’t remember where exactly… perhaps on the west of Gili Air) covered in broken and dead coral from past dynamite fishing practices. It is like swimming in a coral graveyard which felt quite sad 
+- The only reason why I cannot rank it higher than anything that came before, is because there is an entire passage (I can’t remember where exactly… perhaps on the west of Gili Air) covered in broken and dead coral from past dynamite fishing practices. It is like swimming in a coral graveyard which felt quite sad.
 - Nevertheless, turtles galore, coral health (only considering those alive) and the water quality is enough for me to consider it as one of my top picks for a good diving holiday.
-- Ultimately ranked Peurto Galera (PG) higher only because PG has more critters.
+- Ultimately ranked Peurto Galera (PG) higher only because PG has higher critter density.
 - **Highlights:** Coral (if not blown up), Turtles, occasional Pelagics
 
 ### Anilao: (Philippines)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/anilao_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/anilao_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/anilao_3.jpg" width="32%" />
+</p>
+
 - The ease of accessibility to dive sites is a huge plus.
 - The variability of scenery is quite astounding, from sandy bottom to coral gardens and even some coral walls.
 - Great variety of nudibranch, which are also easy to spot.
