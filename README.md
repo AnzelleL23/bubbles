@@ -55,13 +55,19 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 
 ## S Tier
 #### Komodo (Indonesia)
-  - Beautiful and colorful coral in almost every site you go to.
-  - Reefs teeming with marine life in every corner. If you don’t see any fish, then you’re probably on a night dive.
-  - Not as many pelagics as one would hope for (there is the occasional reef shark and manta) but the vibrant reefs more than make up for it.
-  - Blue waters and amazing visibility virtually everywhere. 
-  - Amazing variety of diving: drifts, macro, shallow reefs, sandy bottom.
-  - The only place I’ve been to so far where I truly feel like I am straight out of a scene from ‘The Little Mermaid’, too difficult to describe the experience with words.
-  - **Highlights:** Corals, reef fish
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_3.jpg" width="32%" />
+</p>
+
+- Beautiful and colorful coral in almost every site you go to.
+- Reefs teeming with marine life in every corner. If you don’t see any fish, then you’re probably on a night dive.
+- Not as many pelagics as one would hope for (there is the occasional reef shark and manta) but the vibrant reefs more than make up for it.
+- Blue waters and amazing visibility virtually everywhere. 
+- Amazing variety of diving: drifts, macro, shallow reefs, sandy bottom.
+- The only place I’ve been to so far where I truly feel like I am straight out of a scene from ‘The Little Mermaid’, too difficult to describe the experience with words.
+- **Highlights:** Corals, reef fish
 
 ## A Tier
 #### Nusa Penida (Indonesia)
