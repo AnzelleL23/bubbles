@@ -14,40 +14,40 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - [Komodo](#komodo-indonesia) 
 
 ### A Tier
-- [Nusa Penida](#nusa-penida)
-- [Verde Island](#verde-island)
-- [Maldives Central Atolls](#maldives-central-atolls)
-- [Richelieu Rock](#richelieu-rock)
-- [Amed/ Tulamben](#amed-tulamben)
+- [Nusa Penida](#nusa-penida-indonesia)
+- [Verde Island](#verde-island-philippines)
+- [Maldives Central Atolls](#maldives-central-atolls-maldives)
+- [Richelieu Rock](#richelieu-rock-thailand)
+- [Amed/ Tulamben](#amed-tulamben-indonesia)
 
 ### B Tier
-- [Sipadan](#sipadan)
-- [Peurto Galera](#peurto-galera)
-- [Three Gili’s](#three-gilis)
-- [Anilao](#anilao)
+- [Sipadan](#sipadan-malaysia)
+- [Peurto Galera](#peurto-galera-philippines)
+- [Three Gili’s](#three-gilis-indonesia)
+- [Anilao](#anilao-philippines)
 
 ### C Tier
-- [Koh Phi Phi](#koh-phi-phi)
-- [Lembeh](#lembeh)
-- [Sail Rock](#sail-rock)
-- [Tioman](#tioman)
-- [Kapalai](#kapalai)
-- [Koh Tachai](#koh-tachai)
-- [Mabul](#mabul)
+- [Koh Phi Phi](#koh-phi-phi-thailand)
+- [Lembeh](#lembeh-indonesia)
+- [Sail Rock](#sail-rock-thailand)
+- [Tioman](#tioman-malaysia)
+- [Kapalai](#kapalai-malaysia)
+- [Koh Tachai](#koh-tachai-thailand)
+- [Mabul](#mabul-malaysia)
 
 ### D Tier
-- [Hvar](#hvar)
-- [Koh Tao](#koh-tao)
-- [Similan Islands](#similan-islands)
+- [Hvar](#hvar-croatia)
+- [Koh Tao](#koh-tao-thailand)
+- [Similan Islands](#similan-islands-thailand)
 
 ### E Tier
-- [Padang Bai](#padang-bai)
-- [Phuket South](#phuket-south)
-- [Koh Surin](#koh-surin)
+- [Padang Bai](#padang-bai-indonesia)
+- [Phuket South](#phuket-south-thailand)
+- [Koh Surin](#koh-surin-thailand)
 
 ### F Tier
-- [Pulau Hantu](#pulau-hantu)
-- [Batam](#batam)
+- [Pulau Hantu](#pulau-hantu-singapore)
+- [Batam](#batam-indonesia)
 
 NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even though you'll likely do all of them on the same trip, simply because I feel that all four of them are vastly different. Compared to something like Maldives Central Atoll where most dives are just negative entry --> reef hook --> drift --> ascend. 
 
