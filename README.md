@@ -11,7 +11,7 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - F Tier: Miserable - Just stay away.
   
 ### S Tier
-- [Komodo](#komodo) 
+- [Komodo](#komodo-indonesia) 
 
 ### A Tier
 - [Nusa Penida](#nusa-penida)
