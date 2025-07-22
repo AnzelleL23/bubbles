@@ -280,7 +280,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - The presence of current and pea soup visibility really sucks the joy out of being underwater.
 - I’d only recommend diving here in the presence of no other alternatives or merely to test equipment.
 - Or unless you really, really, really love macro.
-- **Highlights:** Surviving and good macro
+- **Highlights:** Nearby and decent macro
 
 ### Batam (Indonesia)
 - The final entry on this list! I was debating which one to rank lower but Batam has definitely got to be worse since the macro is just not as good as Pulau Hantu (also not any cheaper).
