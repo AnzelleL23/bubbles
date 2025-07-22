@@ -66,6 +66,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Not as many pelagics as one would hope for (there is the occasional reef shark and manta) but the vibrant reefs more than make up for it.
 - Blue waters and amazing visibility virtually everywhere. 
 - Amazing variety of diving: drifts, macro, shallow reefs, sandy bottom.
+- If you enjoy drift diving, this is 100% the place to go. 
 - The only place I’ve been to so far where I truly feel like I am straight out of a scene from ‘The Little Mermaid’, too difficult to describe the experience with words.
 - **Highlights:** Corals, reef fish
 
@@ -80,8 +81,8 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Impeccable visibility at crystal bay/ northern sites.
 - Almost guaranteed manta sightings in the South + one of the few places in SEA to hunt for the mola mola.
 - Corals are bountiful and healthy, especially in crystal bay/ sites close to Nusa Lembobgan.
-- Only not S tier because apart from the aforementioned pelagics, there is surprisingly few fish, apart from a few spots.
-- Decent amount of current which can be quite challenging but overall still manageable...though there are many horror stories online.
+- Only not S tier because apart from the aforementioned pelagics, there is surprisingly few fish, bar a few spots.
+- Decent amount of current which can be quite challenging but overall still manageable...cthough there are many horror stories online of people getting washed away here.
 - **Highlights:** Mola mola, Manta rays, corals
 
 ### Verde Island (Philippines)
@@ -96,6 +97,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Possible pelagic sightings around the pinnacle too.
 - Unfortunately, the visibility is only decent, not fantastic. Then again, perhaps it is seasonal so this is subjected to change.
 - The currents here are also extremely erratic and can be quite dangerous, probably the only place where I experienced pretty drastic up/ down currents.
+- Verde Island may have more fish than Nusa Penida but the latter has significantly better visibility. 
 - **Highlights:** Corals, reef fish
 
 ### Maldives Central Atolls (Maldives)
@@ -110,7 +112,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Chance to get very very close to nurse sharks and mantas.
 - Water was blue and visibility was generally great, though it was poorer at some of the deeper channel diving sites if I remember correctly.
 - Not ranked higher only because some places had massively bleached corals which is quite unfortunate. 
-- Perfect for the ‘big stuff’ and drift diving.
+- Perfect for the 'big stuff' and drift diving.
 - **Highlights:** Sharks (all kinds), Manta rays
 
 ### Richelieu Rock (Thailand)
@@ -215,8 +217,8 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
   <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/phiphi_3.jpg" width="32%" />
 </p>
 
-- There is quite a bit of descent marine life and corals around the islands.
-- I’ve spotted a number of pelagics during my dives here, albeit very briefly.
+- There is quite a lot of marine life and corals around the islands.
+- I’ve spotted a number of pelagics during my dives here (sharks and rays), albeit very briefly.
 - Sizeable variety of nudibranch around here too, though I find them to be a little smaller than other places I’ve been to. 
 - The topography around the Bida islands is also interesting.
 - Not in the B tier only because the water at some places can be very green, reducing overall enjoyment.
@@ -230,9 +232,10 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 </p>
 - Another ranking which some may find extremely controversial.
 - Even though it’s often heralded as the 'muck diving capital of the world', there were periods of up to 20 mins where my camera would be off and all I'd see were just endless fields of sand. 
-- Not ranked higher because the of the aforementioned disappointments and that the diving here is generally quite expensive.
+- Not ranked higher because the of the aforementioned disappointments and the fact that the diving here is generally quite expensive.
 - Not ranked lower because the water has surprisingly good visibility for a muck site, presence of some very unique critters and ease of diving (no current, little if any).
-- Perhaps I went too early during the high season so I’ll defiantly make a second visit and update the tier list. 
+- Perhaps I went too early during the high season so I’ll definitely make a second visit and update the tier list. 
+- I prefer Anilao over Lembeh since the former has much better water conditions, with more interesting topography. 
 - **Highlights:** Nudibranch, octopus, muck etc.
 
 ### Sail Rock (Thailand)
@@ -242,9 +245,9 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
   <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sail_3.jpg" width="32%" />
 </p>
 
-- Similar case with Verde Island, I decided to rank this site separately since it is some distance from Koh Tao/ Koh Samui.
+- Similar case with Verde Island/ Peurto Galera, I decided to rank this site separately since it is some distance from Koh Tao/ Koh Samui.
 - Quite similar to Richelieu rock in terms of topography and marine life.
-- Maybe a bit less fish than at Richelieu.
+- Maybe less fish than at Richelieu.
 - While it has similar highs to Richelieu rock, the lows are much lower. The visibility at some parts were less than 2m, making it impossible to fully appreciate the schooling fish.
 - Doesn’t help that this dive site is usually packed to the gills with divers since the window to dive here is quite small.
 - Still worth a trip but not as relaxing or as remarkable as other sites ranked higher in the list.
@@ -261,7 +264,7 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 
 - The closest decent dive destination to Singapore!
 - I feel that the sites further away from the Tioman i.e. the islands around Labas are actually very nice. The waters can have visibility of 15-20m sometimes, with interesting topography for some swim throughs.
-- Renggis is also a fantastic site with good coral and almost guaranteed turtle sightings. Occasional pelagic here too.
+- Renggis is also a fantastic site with good coral and almost guaranteed turtle sightings. Occasional pelagic sightings here too.
 - That being said, apart from these few sites, majority of the ground surface is still sandy bottom, with almost zero macro life to make up for it. 
 - The lack of coral or vibrant marine life at most spots lands it in this position.
 - At least the water can be blue at some places and it is still the most accessible place for weekend diving.
@@ -274,11 +277,11 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
   <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/kapalai_3.jpg" width="32%" />
 </p>
 
-- While there is the one site called Little Okinawa which reminds me a lot of Nusa Penida and Komodo, the other parts of Kapalai are rather dull and interesting.
-- There is decent coral but not much marine life to write home about 
-- The water is quite blue but visibility was ok-ish
-- It was hard ranking Tioman and Kapalai relative to each other since both offer similar experiences: some grest sites, some snoozers.
-- I think Tioman edges over Kapalai due to the cheaper diving, variability of dives and ease of accessibility.
+- While there is the one site called Little Okinawa which reminds me a lot of Nusa Penida and Komodo, the other parts of Kapalai are rather dull and uninteresting.
+- There is decent coral but not much marine life to write home about.
+- The water is quite blue but visibility was OK-ish.
+- It was hard ranking Tioman and Kapalai relative to each other since both offer similar experiences: some great sites, some snoozers.
+- I think Tioman edges over Kapalai due to the cheaper diving, variability of diving and ease of accessibility.
 - **Highlights:** 'Little Okinawa'
   
 ### Koh Tachai (Thailand)
@@ -310,13 +313,13 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 ## D Tier
 ### Hvar (Croatia)
 - My only diving experience outside of Asia .
-- The water is a chilly 21 degrees but is as blue as the sky and with visibility rivaling that of crystal bay, maybe even better.
+- The water is a chilly 21 degrees but is as blue as the sky and with visibility rivaling that of crystal bay (up to 40m I reckon), maybe even better.
 - The biggest shortcoming is that the sites are almost devoid of almost any decently sized fish.
 - In fact there were zero corals, just some seagrass.
-- Interersting topography around the southern coasts. 
-- There is still the occasional tuna and octopus which is quite cool.
+- Interersting topography around the Southern coasts. 
+- There is the occasional tuna and octopus which is quite cool.
 - Unable to rank this place higher due to the severe lack of marine life but the visibility is simply too stunning to fault.
-- Had some close encounters with octopus here.
+- Unfortunately, I do not have footage of the diving here since I left all my equipment at home. 
 - **Highlights:** Water conditions
   
 ### Koh Tao (Thailand)
@@ -325,14 +328,15 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - Visibility is unfortunately subpar at most other places.
 - Koh Tao also doesn’t have coral gardens as beautiful as Tioman, so even the Pinnacles are unable to carry it to a higher tier in my opinion.
 - Dive sites are usually quite crowded so it can be hard to enjoy the popular areas. 
-- Its price makes it a huge plus considering the diving is at least semi-decent.
+- Its price makes it a huge plus, considering the diving is sub-par at best.
+- A good place to pick up diving, although I'd very much prefer Tioman for the beginners, and other places for more experienced divers. 
 - **Highlights:** Cheap diving
 
 ### Similan Islands (Thailand)
 - I don’t recall seeing much marine life around the islands, there is the occasional bat fish/ fuseli but really not much else. 
-- Perhaps much of the area was destroyed in 2004 idk but most of my time underwater was spent ‘rock diving’ which I find to be a bit laughable.
+- Perhaps much of the area was destroyed in 2004, I'm not sure but most of my time underwater was spent ‘rock diving’ which I find to be a bit laughable.
 - Even though I would consider Hvar to be rock diving as well, Hvar's water is significantly better.
-- I cannot rate Similans any lower as the water is indeed still blue and the topography is quite interesting to some extent.
+- I cannot rate Similans any lower as the water is indeed still blue and the topography is quite unique to some extent.
 - In terms of hype to satisfaction ratio, this place really takes the cake, especially since it is at the forefront of most Thailand LOB advertisements even though there are better dive sites on the same itinerary. 
 - **Highlights:** Rock diving
 
