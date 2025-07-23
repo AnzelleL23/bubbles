@@ -170,14 +170,15 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 
 - Probably my most controversial ranking in this list.
 - Excellent place to see schools of bump head parrot fish and jackfish/ barracuda tornadoes.
-- Water was blue and clear for the most part.
+- Water was blue and clear for the most part. Some areas
 - Good reefs and decent marine life.
 - However, I must admit that it is a little overrated in a sense that is it not the 'best diving site in the world'. Granted, this title was bestowed decades ago but many fish have clearly left the area since.
-- The small size of Sipadan also means that you can explore the whole area in about 2 dives.
 - I think the limited daily diving permits give an illusion of Sipadan being the crown jewel of diving.
 - I feel that those in the A tier have a bit more to offer.
-- Putting Richelieu Rock above Sipadan may be a travesty to some but the fish density at Richelieu is simply too high to ignore. 
-- I still recommend a trip here because it is indeed an extremely beautiful site, just that the hype is a little overblown and that the dives are not cheap at all.
+- Putting Richelieu Rock above Sipadan may be a travesty to some but the fish density at Richelieu is simply too high to ignore.
+- As for why Amed/ Tulamben over Sipadan... probably because the former is much cheaper and easier to get to. Objectively, Sipadan is probably more breathtaking but Amed/ Tulamben is only marginally worse and at a tiny fraction of the overall cost. 
+- I still 100% recommend a trip here because it is indeed an extremely beautiful site, just that the hype is a little overblown and that the dives are not cheap at all.
+- In fact, it is possible to spam day trips to Richelieu but for a week-long stay near Sipadan, you'll probably only get to dive it 3-4 times max. 
 - **Highlights:** Bumphead parrotfish, Barracuda/ Jackfish tornadoes, occasional pelagic.
 - **Recommended skill level:** AOWD.
   
