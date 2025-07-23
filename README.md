@@ -244,6 +244,7 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - The topography around the Bida islands is also interesting.
 - Looking at some of the pictures I took, Koh Phi Phi does seem very nice.
 - The truth is that the water at some places can be very green, reducing overall enjoyment.
+- I considered putting Koh Phi Phi in B Tier but I feel like it is a slight step-down from places like Gili's and Anilao. To me, it feels slightly closer to Tioman than the aforementioned places. 
 - **Highlights:** Nudibranch, occasional pelagic, squids.
 - **Recommended skill level:** Beginner friendly. 
   
