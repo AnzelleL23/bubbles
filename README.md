@@ -1,6 +1,6 @@
 # Dive Site Tier List
 
-A personal tier list of all the dive sites that I have been to so far. I am a little biased towards places with 'bluer waters' and healthy reef (fish density and coral variety taken into account) so do take the ranking with a pinch of salt. Links to my justifications and reasonings are embedded within the text. Since there are still many other places that I have yet to visit, this list may evolve overtime. Additionally, do note that these opinions are mine, and mine only! Our experiences may vary due to seasons (or possibly even because I wrote a lot of these in retrospect based on camera footage and old dive log notes) so I sincerely apologize in advance if this ranking does not align with your personal one. Without further ado, my tiers are as follows:
+A personal tier list of all the dive sites that I have been to so far. I am a little biased towards places with 'bluer waters' and healthy reefs (fish density and coral variety taken into account) so do take the ranking with a pinch of salt. Links to my justifications and reasonings are embedded within the text. Since there are still many other places that I have yet to visit, this list may evolve overtime. Additionally, do note that these opinions are mine, and mine only! Our experiences may vary due to seasons (or possibly even because I wrote a lot of these in retrospect based on camera footage and old dive log notes) so I sincerely apologize in advance if this ranking does not align with your personal one. I hope that this list may be helpful for dive trip planning, so that you will only see the best of what the underwater world has to offer. Without further ado, my tiers are as follows:
 
 - S Tier: Perfect - Absolutely must go!
 - A Tier: Excellent - I would definitely recommend a trip.
@@ -49,7 +49,13 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - [Pulau Hantu](#pulau-hantu-singapore)
 - [Batam](#batam-indonesia)
 
-NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even though you'll likely do all of them on the same trip, simply because I feel that all four of them are vastly different. Compared to something like Maldives Central Atoll where most dives are just negative entry --> reef hook --> drift --> ascend. 
+### Additional comments
+- I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even though you'll likely do all of them on the same trip, simply because I feel that all four of them are vastly different. Compared to something like Maldives Central Atoll where most dives are just negative entry --> reef hook --> drift --> ascend. 
+- Some places in SEA I am hoping to visit soon (that most have probbaly already gone to...):
+    - Indonesia: R4, Bunaken, Bangka
+    - Philippines: Tubbataha, Cebu (Bohol, Moalboal, Malapascua, Dauin, Dumagette) (I have not even stepped foot on Cebu yet)
+    - Malaysia: Perhentian, Kota Kinabalu
+    - Thailand: Hin Daeng/ Hin Muang
 
 ---
 
@@ -149,7 +155,8 @@ NOTE: I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even t
 - The blue waters, clear visibility and fairly calm conditions make for very comfortable diving.
 - Fire corals and shore entry kinda blows though.
 - The legendary USAT liberty wreck with its abundance of critters living around/ inside is truly a sight to behold.
-- Personal favourite in terms of ease of accessibility, cost and relaxation but only loses to those above due to having a lower density of critters and coral.
+- One of my personal favourite in terms of ease of accessibility, cost and relaxation but only loses to those above due to having a lower density of fish and coral.
+- The car ride here can be a pain though, especially admist the Bali traffic jams. 
 - **Highlights:** Frogfish, nudibranch, muck etc.
 - **Recommended skill level:** Beginner friendly.
   
