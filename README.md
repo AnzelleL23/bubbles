@@ -63,8 +63,8 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 ### Komodo (Indonesia)
 <p align="middle">
   <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_1.jpg" width="32%" />
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_2.jpg" width="32%" /> 
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_3.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_3.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/komodo_2.jpg" width="32%" />
 </p>
 
 - Beautiful and colorful coral in almost every site you go to.
