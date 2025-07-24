@@ -50,7 +50,8 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - [Batam](#batam-indonesia)
 
 ### Additional comments
-- I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even though you'll likely do all of them on the same trip, simply because I feel that all four of them are vastly different. Compared to something like Maldives Central Atoll where most dives are just negative entry --> reef hook --> drift --> ascend. 
+- I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even though you'll likely do all of them on the same trip, simply because I feel that all four of them are vastly different. Compared to something like Maldives Central Atoll where most dives are just negative entry --> reef hook --> drift --> ascend.
+- All my wide-angle shots are taken either with my TG-6 or GoPro 7. I do not have a wide-angle lens nor a suitable camera for such style of photography so please do not @ me over this. 
 - Some places in SEA I am hoping to visit soon (that most have probbaly already gone to...):
     - Indonesia: R4, Bunaken, Bangka
     - Philippines: Tubbataha, Cebu (Bohol, Moalboal, Malapascua, Dauin, Dumagette) (I have not even stepped foot on Cebu yet)
