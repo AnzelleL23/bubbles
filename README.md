@@ -356,6 +356,12 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - **Recommended skill level:** Beginner friendly. 
   
 ### Koh Tao (Thailand)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_3.jpg" width="32%" />
+</p>
+
 - I would have liked to put Koh Tao higher but unfortunately, it does not have much going for it.
 - Chumphon pinnacles and Southwest pinnacles are pretty remarkable diving sites as there are lots of schooling fish. 
 - Visibility is unfortunately subpar at most other places.
@@ -387,14 +393,21 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - **Recommended skill level:** AOWD but the shallow/ protected sites are fairly beginner friendly. 
 
 ### Phuket South (Thailand)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/phuket_2.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/phuket_1.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/phuket_3.jpg" width="32%" />
+</p>
+
 - This includes the Racha islands, King cruiser wreck and Koh Doc Mai.
 - There really isn’t much to see, mostly sea stars and sea urchins.
 - Koh Doc Mai is actually OK I guess...
 - Water colour alternates between light blue and sicklish green, with visibility not more than 10-12m. 
 - There are some nudibranch at these sites but they’re virtually microscopic. 
 - King Cruiser is an interesting wreck but it is too deep for any proper exploration (even with nitrox). Contrast this to the USAT Liberty in Tulamben where even people without tech diving certifications can explore. The marine life on the USAT Liberty is also infinitely more vibrant and you have higher likelihood of spotting more unique critters there.
-- There are schools of fish near the King Cruiser Wreck but there is just TOO many people in the water. Coupled with the fact that diving is done of the cattle boats... not an experience to write home about. 
+- There are some nice schools of fish near the King Cruiser Wreck but there is just TOO many people in the water. Coupled with the fact that diving is done of the cattle boats... not an experience to write home about. 
 - A way to shake off the dive bug since it is quite cheap and still OK-ish at best.
+- Personally, I rate Koh Tao above Phuket since the pinnacle sites at the former are actually much better than almost everything here.
 - Considered putting this right below Similan and in the D tier, but even though I was bored out of my mind in Padang Bai and here, I think Padang Bai had a lot more marine life.
 - **Highlights:** Tasty boat meals.
 - **Recommended skill level:** Beginner friendly.
