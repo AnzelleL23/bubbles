@@ -4,8 +4,8 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 
 - S Tier: Perfect - Absolutely must go!
 - A Tier: Excellent - I would definitely recommend a trip.
-- B Tier: Great - Some flaws that keep it from being 'excellent' but I would otherwise still strongly advocate for.
-- C Tier: Decent - A fairly enjoyable experience but nothing that will blow your mind.
+- B Tier: Great - Some flaws that keep it from being 'excellent' but I would otherwise strongly advocate for.
+- C Tier: Decent - A fairly enjoyable experience which I will still definitely recommend, but nothing that will blow your mind.
 - D Tier: Subpar - Acceptable, though I probably would not go out of the way to dive here specifically.
 - E Tier: Poor - Avoid if possible. 
 - F Tier: Miserable - Just stay away.
@@ -28,16 +28,16 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 
 ### C Tier
 - [Koh Phi Phi](#koh-phi-phi-thailand)
-- [Lembeh](#lembeh-indonesia)
 - [Sail Rock](#sail-rock-thailand)
 - [Tioman](#tioman-malaysia)
+- [Koh Tao](#koh-tao-thailand)
 - [Kapalai](#kapalai-malaysia)
+- [Lembeh](#lembeh-indonesia)
 - [Koh Tachai](#koh-tachai-thailand)
 - [Mabul](#mabul-malaysia)
 
 ### D Tier
 - [Hvar](#hvar-croatia)
-- [Koh Tao](#koh-tao-thailand)
 - [Similan Islands](#similan-islands-thailand)
 
 ### E Tier
@@ -54,10 +54,15 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - All my wide-angle shots are taken either with my TG-6 or GoPro 7. I do not have a wide-angle lens nor a suitable camera for such style of photography so please do not @ me over this. 
 - Some places in SEA I am hoping to visit soon (that most have probbaly already gone to...):
     - Indonesia: R4, Bunaken, Bangka
-    - Philippines: Tubbataha, Cebu (Bohol, Moalboal, Malapascua, Dauin, Dumagette) (I have not even stepped foot on Cebu yet)
+    - Philippines: Tubbataha, Cebu (Malapascua, Dauin, Dumagette)
     - Malaysia: Perhentian, Kota Kinabalu
     - Thailand: Hin Daeng/ Hin Muang
 
+### COMING SOON: 
+- Visited, but review not yet ready:
+    - Moalboal
+    - Mactan
+    - Bohol (local, Balicasag, Pamilacan)
 ---
 
 ## S Tier
@@ -192,7 +197,8 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 
 - Huge variety of diving, all within 15 mins boat ride. 
 - Incredibly healthy and colorful coral at the sites just east of Sabang beach.
-- Good macro and marine life all around, healthy corals even at areas very close to civilisation.
+- I think the soft corals along the coast are some of the healthiest I have seen, despite its proximity to civilization.
+- Good marine life, and excellent macro in the area as well. Definitely will be able to find creatures that appeal to all types of divers. 
 - Gentle drifts at some sites with shallow coral for some awesome drift diving.
 - Hampered by slightly greenish waters (visibility is still decent but I have a strong bias for blue waters) and absence of schooling fish.
 - **Highlights:** Soft coral, saw my first stargazer here too.
@@ -250,22 +256,6 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - **Highlights:** Nudibranch, occasional pelagic, squids.
 - **Recommended skill level:** Beginner friendly. 
   
-### Lembeh (Indonesia)
-<p align="middle">
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_1.jpg" width="32%" />
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_2.jpg" width="32%" /> 
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_3.jpg" width="32%" />
-</p>
-
-- Another ranking which some may find extremely controversial.
-- Even though it’s often heralded as the 'muck diving capital of the world', there were periods of up to 20 mins where my camera would be off and all I'd see were just endless fields of sand. 
-- Not ranked higher because the of the aforementioned disappointments and the fact that the diving here is generally quite expensive.
-- Not ranked lower because the water has surprisingly good visibility for a muck site, presence of some very unique critters and ease of diving (no current, little if any).
-- Perhaps I went too early during the high season so I’ll definitely make a second visit and update the tier list. 
-- I prefer Anilao over Lembeh since the former has much better water conditions, with more interesting topography. 
-- **Highlights:** Nudibranch, octopus, muck etc.
-- **Recommended skill level:** AOWD (similar justification with Anilao).
-  
 ### Sail Rock (Thailand)
 <p align="middle">
   <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/sailrock_1.jpg" width="32%" />
@@ -279,9 +269,10 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - While it has similar highs to Richelieu rock, the lows are much lower. The visibility at some parts were less than 2m, making it impossible to fully appreciate the schooling fish.
 - Doesn’t help that this dive site is usually packed to the gills with divers since the window to dive here is quite small.
 - Still worth a trip but not as relaxing or as remarkable as other sites ranked higher in the list.
-- In fact, if you are in Koh Tao, I think diving the pinnacles around Koh Tao would save you significant money and effort, for about 80% the experience.
+- In fact, if you are in Koh Tao, I think diving the pinnacles around Koh Tao would save you significant money and effort, for about 90% the experience (virtually similar).
+- Initially, I wanted to put Sail Rock much lower due to difficulty of access and variability of site conditions but the volume of fish and swiim throughts make it a unique experience still.
 - Some Sail Rock footage online look infinitely different from what I experienced so maybe I will give this place another shot in the future.
-- **Highlights:** Reef fish.
+- **Highlights:** Reef fish and topography.
 - **Recommended skill level:** AOWD.
   
 ### Tioman (Malaysia)
@@ -298,7 +289,44 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - The lack of coral or vibrant marine life at most spots lands it in this position.
 - At least the water can be blue at some places and it is still the most accessible place for weekend diving.
 - **Highlights:** OK corals, near to SG.
-- **Recommended skill level:** Beginner friendly. 
+- **Recommended skill level:** Beginner friendly.
+
+- ### Koh Tao (Thailand)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_3.jpg" width="32%" />
+</p>
+
+- Chumphon pinnacles and Southwest Pinnacles are remarkable diving sites due to the sheer volume of schooling fish. 
+- Visibility is unfortunately average-subpar at most other places.
+- Water is warm, and blue for the most part, which may make the experience more 'enjoyable' than even some of the higher rated areas.
+- I do not understand why people claim that West Thailand has 'significantly better' diving since coral and marine life is still decent.
+- However, dive sites can be quite crowded so it may be hard to enjoy the popular areas.
+- Apart from typical reef fish, it can be hard to find pelagics or even macro life in the area. Probably the biggest reason why I cannot put this place higher in the list.
+- Its price makes it a huge plus, along with one of the best above-water experiences.
+- It was honestly a toss up between Tioman and Koh Tao since the diving in both places felt quite similar to me. Ultimately, Tioman narrowly edges Koh Tao due to higher likelihood of spotting pelagics. 
+- An excellent place to pick up diving, and if you plan to stay for a long time, Koh Tao has infinitely more things to do on land than Tioman.
+- That being said, experienced divers may not find the dive sites particularly 'interesting'.
+- **Highlights:** Cheap and decent diving.
+- **Recommended skill level:** Beginner friendly.
+
+- ### Lembeh (Indonesia)
+<p align="middle">
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_1.jpg" width="32%" />
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_2.jpg" width="32%" /> 
+  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/lembeh_3.jpg" width="32%" />
+</p>
+
+- Another ranking which some may find extremely controversial - I hope I do not get cancelled for Lembeh appearing in this part of the list.
+- Even though it’s often heralded as the 'muck diving capital of the world', there were periods of up to 20 mins where my camera would be off and all I'd see were just endless fields of sand. 
+- Not ranked higher because the of the aforementioned disappointments and the fact that the diving here is generally quite expensive.
+- Not ranked lower because the water has surprisingly good visibility for a muck site, presence of some very unique critters and ease of diving (no current, little if any).
+- Perhaps I went too early during the high season so I’ll definitely make a second visit and update the tier list. 
+- I prefer Anilao over Lembeh since the former has much better water conditions, with more interesting topography.
+- I must also caveat that Lembeh is home to critters which you will (almost) never see diving anywhere else in the world.
+- **Highlights:** Nudibranch, octopus, muck etc.
+- **Recommended skill level:** AOWD (similar justification with Anilao).
   
 ### Kapalai (Malaysia)
 <p align="middle">
@@ -354,23 +382,6 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - Unable to rank this place higher due to the severe lack of marine life but the visibility is simply too stunning to fault.
 - Unfortunately, I do not have footage of the diving here since I left all my equipment at home. 
 - **Highlights:** Water conditions.
-- **Recommended skill level:** Beginner friendly. 
-  
-### Koh Tao (Thailand)
-<p align="middle">
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_1.jpg" width="32%" />
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_2.jpg" width="32%" /> 
-  <img src="https://github.com/AnzelleL23/bubbles/raw/main/images/tao_3.jpg" width="32%" />
-</p>
-
-- I would have liked to put Koh Tao higher but unfortunately, it does not have much going for it.
-- Chumphon pinnacles and Southwest pinnacles are pretty remarkable diving sites as there are lots of schooling fish. 
-- Visibility is unfortunately subpar at most other places.
-- Koh Tao also doesn’t have coral gardens as beautiful as Tioman, so even the Pinnacles are unable to carry it to a higher tier in my opinion.
-- Dive sites are usually quite crowded so it can be hard to enjoy the popular areas. 
-- Its price makes it a huge plus, considering the diving is sub-par at best.
-- A good place to pick up diving, although I'd very much prefer Tioman for the beginners, and other places for more experienced divers. 
-- **Highlights:** Cheap diving.
 - **Recommended skill level:** Beginner friendly. 
 
 ### Similan Islands (Thailand)
