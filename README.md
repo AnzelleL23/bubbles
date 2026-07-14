@@ -37,9 +37,9 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - [Kapalai](#kapalai-malaysia)
 - [Panglao](#panglao)
 - [Lembeh](#lembeh-indonesia)
-- [Koh Tachai](#koh-tachai-thailand)
 
 ### D Tier
+- [Koh Tachai](#koh-tachai-thailand)
 - [Pamilacan Island](#pamilacan-island)
 - [Mabul](#mabul-malaysia)
 - [Hvar](#hvar-croatia)
@@ -57,7 +57,8 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 ### Additional comments
 - I decided to split up Richelieu, Koh Surin, Koh Tachai and Similans even though you'll likely do all of them on the same trip, simply because I feel that all four of them are vastly different. Compared to something like Maldives Central Atoll where most dives are just negative entry --> reef hook --> drift --> ascend.
 - Similarly, I split up Bohol (local), Balicasag and Pamilacan Island since they all feel vastly different.
-- All my wide-angle shots are taken either with my TG-6 or GoPro 7. 
+- All my wide-angle shots are taken either with my TG-6 or GoPro 7.
+- If you need help with dive trip planning, [here](#dive-trip-planning) are some of the ways I used to get to my destination.
 - Some places in SEA I am hoping to visit soon (that most have probbaly already gone to...):
     - Indonesia: R4, Bunaken, Bangka
     - Philippines: Tubbataha, Cebu (Malapascua, Dauin, Dumagette)
@@ -412,19 +413,20 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - **Recommended skill level:** Beginner friendly.
 - **Suitable if you are:** Not allowed to dive Sipadan, and would like to still see some coral. 
   
+  
+## D Tier
+
 ### Koh Tachai (Thailand)
 - This is quite a small dive site if I recall correctly.
 - I do remember that the water here was much bluer and visibility was better than other parts of the Andaman sea.
 - Some marine life and coral around the island.
 - Ranked in this position since it simply cannot compete with those above in terms of coral or marine life. 
-- This is still a rather decent dive site and I do recall feeling quite impressed by the dive.
+- This is still a rather decent dive site and I do recall feeling quite impressed by the dive. But maybe this was also because the previous few diving sites on this trip were pretty awful.
 - Realized that I have 0 footage of this site so going purely based on memory and dive log notes. 
 - **Highlights:** Vibes. (I wrote this in my log book)
 - **Recommended skill level:** Unsure.
 - **Suitable if you are:** On a Andaman Sea LOB. I would not come here otherwise I think.
   
-  
-## D Tier
 ### Pamilacan Island (Philippines)
 
 - Maybe I came on a wrong day because I remember hating the diving here, despite the contradicting online discourse.
@@ -543,4 +545,42 @@ A personal tier list of all the dive sites that I have been to so far. I am a li
 - **Highlights:** Surviving.
 - **Recommended skill level:** Beginner+, similar justification as above.
 - **Suitable if you are:** insane.
+
+---
+# Dive Trip Planning
+
+Here are some tips which may assist in your trip planning. These are the routes I took to the places that I have gone to. Note that all of these routes are departing from Singapore only. 
+
+## Malaysia
+1. Tioman: Land transfer to Mersing (3hrs) -> Ferry to Tioman (2hrs)
+2. Sipadan:
+    * Option 1: Flight to Kota Kinabalu (2.5hrs) -> Flight to Tawau (1hr) -> Land transfer to Semporna (1.5hrs) -> Speed boat to Mabul accoms (45mins)
+    * Option 2: Flight to KL (1hrs) -> Flight to Tawau (3hrs) -> (Everything else same as above)
+
+## Thailand
+1. Phuket South dive sites: Flight to Phuket (2hrs) -> Land transfer to South (1hr) - most dive boats depart near Chalong Pier.
+2. Koh Phi Phi: Flight to Phuket (2hrs) -> Land transfer to Rassada Pier (1.5hrs) -> Ferry to Koh Phi Phi (2hrs)
+3. Andaman Sea dive sites (Richelieu Rock, Koh Tachai, Koh Surin, Similan Islands): Flight to Phuket (2hrs) -> Land transfer to Khao Lak (1.5hrs) - most LOBs depart from Khao Lak area.
+4. Koh Tao/ Sail Rock: Flight to Koh Samui (2hrs) -> Land Transfer to Pralarn Pier (30mins) -> Ferry to Koh Tao (2hrs) - Always dive from Koh Tao! While it is possible to dive from Koh Samui, it is significantly more expensive!
+
+## Indonesia 
+1. Padang Bai (Bali): Flight to Bali (3hrs) -> Land transfer to Padang Bai (1.5hrs) - instead of staying at Padang Bai, can consider doing a day trip from Sanur area instead.
+2. Amed/ Tulamben (Bali): Flight to Bali (3hrs) -> Land transfer to Amed/ Tulamben (3hrs) - Although there are single day trips to this area, I would recommend staying at least a night, unless you are short on time.
+3. Nusa Lembongan/ Penida (Bali): Flight to Bali (3hrs) -> Land transfer to Sanur (45mins) -> Speedboat to Nusa Lembongan/ Penida (45mins) - I would recommend staying on Nusa Lembongan since it has much more to do there.
+4. Three Gilis (Lombok):
+    * Option 1: Flight to Lombok (3.5hrs) -> Land transfer to ?? pier (2hrs) -> Speedboat to Gilis (10mins) - This is the most hassle-free way to get to Gilis, though the flights to Lombok are quite expensive.
+    * Option 2: Flight to Bali (3hrs) -> Flight to Lombok (30mins) -> (Everything else same as above)
+    * Option 3: Flight to Bali (3hrs) -> Land transfer to Padang Bai (1.5hrs) -> Speedboat to Gilis - Probably the cheapest way to get there but the speedboat may not be a gentle ride...
+5. Lembeh (Mandao): Flight to Mandao (4hrs) -> Land transfer to ?? pier (30mins) -> Speedboat to Lembeh (15mins)
+
+## Philippines
+1. Anilao (Luzon): Flight to Manilla (3.5+hrs) -> Land transfer to Anilao (2.5hrs)
+2. Peurto Galera, Verde Island (Mindoro): Flight to Manilla (3.5+hrs) -> Land transfer to Batangas Pier (2hrs) -> Ferry to Balatero Pier (2hrs) -> Land transfer to Peurto Galera/ Sabang Beach (20mins)
+3. Mactan (Cebu): Flight to Cebu (4hrs) -> Land transfer to Mactan (15mins)
+4. Moalboal (Cebu): Flight to Cebu (4hrs) -> Land transfer to Moalboal (3hrs)
+5. Panglao, Balicasag, Pamilacan: Flight to Cebu (4hrs) -> Land transfer to Cebu City Pier (30mins) -> Ferry to Tagbilaran Pier, Bohol (2hrs) -> Land transfer to Alona Beach (30mins)
+
+## Maldvies
+1. Flight to Maldives (5hrs) - some places require you to take a connecting plane (domestic transfer).
+
 
