@@ -578,7 +578,7 @@ Here are some tips which may assist in your trip planning. These are the routes 
 2. Peurto Galera, Verde Island (Mindoro): Flight to Manilla (3.5+hrs) -> Land transfer to Batangas Pier (2hrs) -> Ferry to Balatero Pier (2hrs) -> Land transfer to Peurto Galera/ Sabang Beach (20mins)
 3. Mactan (Cebu): Flight to Cebu (4hrs) -> Land transfer to Mactan (15mins)
 4. Moalboal (Cebu): Flight to Cebu (4hrs) -> Land transfer to Moalboal (3hrs)
-5. Panglao, Balicasag, Pamilacan: Flight to Cebu (4hrs) -> Land transfer to Cebu City Pier (30mins) -> Ferry to Tagbilaran Pier, Bohol (2hrs) -> Land transfer to Alona Beach (30mins)
+5. Panglao, Balicasag, Pamilacan (Bohol): Flight to Cebu (4hrs) -> Land transfer to Cebu City Pier (30mins) -> Ferry to Tagbilaran Pier (2hrs) -> Land transfer to Alona Beach (30mins)
 
 ## Maldvies
 1. Flight to Maldives (5hrs) - some places require you to take a connecting plane (domestic transfer).
